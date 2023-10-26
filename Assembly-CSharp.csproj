@@ -55,7 +55,6 @@
   <ItemGroup>
      <Compile Include="Assets\New Folder\PlayerController.cs" />
      <Compile Include="Assets\New Folder\SpawnManager.cs" />
-     <Compile Include="Assets\NewBehaviourScript.cs" />
  <Reference Include="UnityEngine.Purchasing">
  <HintPath>/Users/game3/Desktop/Create With Code/Prototype 2/Snack Attack Project/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
